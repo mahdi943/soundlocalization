@@ -1,0 +1,9 @@
+numpy
+h5py
+pydub
+scipy
+matplotlib
+tensorflow==1.15.0
+keras
+portaudio19-dev
+pyaudio
