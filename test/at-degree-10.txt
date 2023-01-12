@@ -1,0 +1,179 @@
+X:110.00
+Y:15.59
+
+Result Magnitude:111.10
+Result Angle:8.07
+
+X:81.50
+Y:32.04
+
+Result Magnitude:87.57
+Result Angle:21.46
+
+X:48.00
+Y:29.44
+
+Result Magnitude:56.31
+Result Angle:31.53
+
+X:64.00
+Y:24.25
+
+Result Magnitude:68.44
+Result Angle:20.75
+
+X:43.50
+Y:18.19
+
+Result Magnitude:47.15
+Result Angle:22.69
+
+X:100.50
+Y:14.72
+
+Result Magnitude:101.57
+Result Angle:8.33
+
+X:49.50
+Y:25.11
+
+Result Magnitude:55.51
+Result Angle:26.90
+
+X:70.00
+Y:19.05
+
+Result Magnitude:72.55
+Result Angle:15.23
+
+X:82.00
+Y:17.32
+
+Result Magnitude:83.81
+Result Angle:11.93
+
+X:46.50
+Y:14.72
+
+Result Magnitude:48.78
+Result Angle:17.57
+
+X:94.00
+Y:19.05
+
+Result Magnitude:95.91
+Result Angle:11.46
+
+X:76.50
+Y:18.19
+
+Result Magnitude:78.63
+Result Angle:13.37
+
+X:44.00
+Y:22.52
+
+Result Magnitude:49.43
+Result Angle:27.10
+
+X:65.00
+Y:13.86
+
+Result Magnitude:66.46
+Result Angle:12.03
+
+X:25.00
+Y:13.86
+
+Result Magnitude:28.58
+Result Angle:29.00
+
+X:77.50
+Y:7.79
+
+Result Magnitude:77.89
+Result Angle:5.74
+
+X:49.50
+Y:9.53
+
+Result Magnitude:50.41
+Result Angle:10.89
+
+X:49.00
+Y:12.12
+
+Result Magnitude:50.48
+Result Angle:13.90
+
+X:-23.00
+Y:31.18
+
+Result Magnitude:38.74
+Result Angle:126.42
+
+X:27.00
+Y:17.32
+
+Result Magnitude:32.08
+Result Angle:32.68
+
+X:46.50
+Y:7.79
+
+Result Magnitude:47.15
+Result Angle:9.52
+
+X:37.00
+Y:10.39
+
+Result Magnitude:38.43
+Result Angle:15.69
+
+X:-15.50
+Y:21.65
+
+Result Magnitude:26.63
+Result Angle:125.60
+
+X:39.50
+Y:9.53
+
+Result Magnitude:40.63
+Result Angle:13.56
+
+X:44.50
+Y:11.26
+
+Result Magnitude:45.90
+Result Angle:14.20
+
+X:21.50
+Y:18.19
+
+Result Magnitude:28.16
+Result Angle:40.23
+
+X:38.00
+Y:12.12
+
+Result Magnitude:39.89
+Result Angle:17.70
+
+X:81.00
+Y:17.32
+
+Result Magnitude:82.83
+Result Angle:12.07
+
+X:63.00
+Y:17.32
+
+Result Magnitude:65.34
+Result Angle:15.37
+
+X:67.00
+Y:17.32
+
+Result Magnitude:69.20
+Result Angle:14.49
